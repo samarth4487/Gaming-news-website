@@ -1,0 +1,69 @@
+/* Index */
+.container-fluid{
+	height: 100%;
+	background-image: url("../images/a.png");
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-position: center;
+
+}
+
+.header{
+	width: 100%;
+}
+
+.buttons{
+	color: white;
+	background-color: black;
+	margin: 5px;
+}
+
+.container{
+	height: 100%;
+}
+
+.rated{
+	background-color: black;
+	color: white;
+}
+
+.trending{
+	background-color: black;
+	color: white;
+}
+
+.upcoming{
+	background-color: black;
+	color: white;
+}
+
+.para{
+	color: white;
+}
+
+.heading{
+	color: black;
+}
+
+.footer{
+	background-color: black;
+	color: white;
+}
+
+.a{
+	background-color: red;
+}
+
+.b{
+	background-color: #660000;
+}
+
+
+/* PC Games */
+.index{
+	background-color: black;
+}
+
+.alpha{
+	background-color: red;
+}
