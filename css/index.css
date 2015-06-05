@@ -81,3 +81,15 @@
 
 /* blog page */
 
+.blog{
+	background-color: black;
+	height: 100%;
+	color: white;
+}
+
+/* a.html */
+.z{
+	background-color: black;
+	height: 500px;
+	color: white;
+}
