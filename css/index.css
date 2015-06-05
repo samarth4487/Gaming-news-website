@@ -67,3 +67,17 @@
 .alpha{
 	background-color: red;
 }
+
+.log{
+	background-color: rgba(255,255,255,0.1);
+	
+}
+
+.log-in{
+	height: 500px;
+	background-color: black;
+	color: white;
+}
+
+/* blog page */
+
